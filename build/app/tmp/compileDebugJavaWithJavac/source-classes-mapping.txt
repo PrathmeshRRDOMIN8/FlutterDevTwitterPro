@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+PrathmeshDronaid/com/twitter_taskphase/BuildConfig.java
+ PrathmeshDronaid.com.twitter_taskphase.BuildConfig
+PrathmeshDronaid/com/twitter_taskphase/MainActivity.java
+ PrathmeshDronaid.com.twitter_taskphase.MainActivity

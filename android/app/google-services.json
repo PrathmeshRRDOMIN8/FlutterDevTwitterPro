@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398741536614",
+    "project_id": "twitter-login-page-task-phase",
+    "storage_bucket": "twitter-login-page-task-phase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398741536614:android:24ef7c025d44976d49d2a7",
+        "android_client_info": {
+          "package_name": "PrathmeshDronaid.com.twitter_taskphase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398741536614-jhik8t9hrdrv4tdfdrvqu5qea569q2aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "PrathmeshDronaid.com.twitter_taskphase",
+            "certificate_hash": "831b5215cec2fdfd567831a8da8748a95f0bfca1"
+          }
+        },
+        {
+          "client_id": "398741536614-nmad89dk81en45taftc9jmkqr1ufdlbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfUPqqlkANXu_laH-tWOlsQqlb3EsqNhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398741536614-nmad89dk81en45taftc9jmkqr1ufdlbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
